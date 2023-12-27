@@ -10,9 +10,11 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  position: relative;
 }
 
 .title {
+  position: relative;
   margin: 0;
   /* Optical centering */
   margin-bottom: -4px;

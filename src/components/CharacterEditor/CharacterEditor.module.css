@@ -21,6 +21,7 @@
 .description {
   font-size: 1.25rem;
   margin: 0;
+  position: relative;
 }
 
 .characterWrapper {
