@@ -3,11 +3,11 @@
   padding-bottom: 64px;
 }
 
-.maxWidthWrapper {
-}
+.maxWidthWrapper {}
 
 .header {
   padding-bottom: 64px;
+  width: 65%;
 }
 
 .title {
@@ -24,7 +24,13 @@
 }
 
 .characterWrapper {
+  position: fixed;
+  min-height: 500px;
+  right: 10%;
+  top: 128px;
+  width: 30%;
 }
 
 .controlColumn {
+  width: 50%;
 }
